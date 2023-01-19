@@ -1,4 +1,4 @@
-# Hi there 💬
+# 💬 Hi there
 Good to meet you. A repository that raises programming sources that are independent of business projects. Most of them are materials used for practice, lecture, and study.
 
 # 💻 Tech Stack
